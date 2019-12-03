@@ -1,0 +1,15 @@
+#about-page{
+    background-color: chocolate ;
+}
+#home-page{
+    background-color: aqua;
+}
+#contact-page{
+    background-color: cadetblue;
+}
+nav{
+    text-align: center;      
+}
+h1{
+    text-align: center;
+}
